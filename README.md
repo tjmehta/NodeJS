@@ -1,4 +1,5 @@
 NodeJS
 ======
 
-Embed Live NodeJS Code Containers
+Live Node.JS embeds by CodeNow.
+Stay tuned...
